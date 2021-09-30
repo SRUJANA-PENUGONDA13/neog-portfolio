@@ -60,16 +60,16 @@ const projectList = {
       Date: "sep, 2021",
       Description:
         "BuddyMeter is a quiz to on myself to know how well my friends know me and it is developed using node.js ",
-      link1: "https://replit.com/@PSRUJANA/BuddyMeter#index.js",
-      link2: "https://replit.com/@PSRUJANA/BuddyMeter?embed=true#index.js",
+      link1: "https://replit.com/@PSRUJANA/BuddyMeter?embed=true#index.js",
+      link2: "https://github.com/SRUJANA-PENUGONDA13/Buddy-Meter",
     },
     {
       Name: "Fun App",
       Date: "July, 2021",
       Description:
         "Fun-App is quiz to test your IQ and developed using node.js",
-      link1: "https://replit.com/@PSRUJANA/Fun-App#index.js",
-      link2: "https://replit.com/@PSRUJANA/Fun-App?embed=true#index.js",
+      link1: "https://replit.com/@PSRUJANA/Fun-App?embed=true#index.js",
+      link2: "https://github.com/SRUJANA-PENUGONDA13/Fun-App",
     },
   ],
   cashAndStocks: [
